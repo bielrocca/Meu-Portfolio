@@ -68,6 +68,7 @@ header .profile-avatar {
 }
 .project-list {
   margin-top: 32px;
+  margin-bottom: 4vw;
 }
 .project-list-item a {
   text-decoration: none;
